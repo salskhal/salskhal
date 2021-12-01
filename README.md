@@ -20,5 +20,5 @@
 [linkedin]: https://www.linkedin.com/in/khalid-salman-yusuf-8ba8b9199
 [instagram]: https://www.instagram.com/iam_gra8/
 [github]: https://github.com/salskhal
-[gmail]: (mailto:olaniyisal@gmail.com)
+<!-- [gmail]: olaniyisal@gmail.com -->
 
