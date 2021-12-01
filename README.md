@@ -11,6 +11,7 @@
 [<img src="instagram.png" width="22px" alt="salskhal">][instagram]
 [<img src="linkedin.png" width="22px" alt="salskhal">][linkedin]
 [<img src="github.png" width="22px" alt="salskhal">][github]
+[<img src="gmail.png" width="22px" alt="salskhal">][gmail]
 
 
 
@@ -19,3 +20,5 @@
 [linkedin]: https://www.linkedin.com/in/khalid-salman-yusuf-8ba8b9199
 [instagram]: https://www.instagram.com/iam_gra8/
 [github]: https://github.com/salskhal
+[gmail]: olaniyisal@gmail.com
+
