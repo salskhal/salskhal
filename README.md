@@ -11,7 +11,7 @@
 [<img src="instagram.png" width="22px" alt="salskhal">][instagram]
 [<img src="linkedin.png" width="22px" alt="salskhal">][linkedin]
 [<img src="github.png" width="22px" alt="salskhal">][github]
-[<img src="gmail.png" width="22px" alt="salskhal">][gmail]
+<!-- [<img src="gmail.png" width="22px" alt="salskhal">][gmail] -->
 
 
 
